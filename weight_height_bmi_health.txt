@@ -1,0 +1,10 @@
+Weight, Height, BMI, Health Status
+75, 171, 25.65, Overweight
+60, 167, 21.51, Normal weight
+55, 137, 29.30, Overweight
+60, 159, 23.73, Normal weight
+57, 183, 17.02, Underweight
+53, 165, 19.47, Normal weight
+56, 188, 15.84, Underweight
+46, 163, 17.31, Underweight
+87, 162, 33.15, Obese
